@@ -1,0 +1,4 @@
+libertysavingscoin
+==================
+
+Experimental cryptocurrency
